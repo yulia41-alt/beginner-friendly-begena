@@ -8,10 +8,11 @@ body {
    grid-template-columns: repeat(4, 2fr);
    grid-template-rows: 100px;
    gap: 2;
+   border: 2px solid black;
+   border-radius: 15%;
 }
 .grid-1{
    background-color: aliceblue;
    margin: 20px auto;
    padding: 15px auto;
-   
 }
