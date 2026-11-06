@@ -3,3 +3,15 @@ body {
    padding: 20px;
    background-color: #d3a6b7;
 }
+#info {
+   display: grid;
+   grid-template-columns: repeat(4, 2fr);
+   grid-template-rows: 100px;
+   gap: 2;
+}
+.grid-1{
+   background-color: aliceblue;
+   margin: 20px auto;
+   padding: 15px auto;
+   
+}
