@@ -5,9 +5,11 @@ body {
 }
 #info {
    display: grid;
-   grid-template-columns: repeat(4, 2fr);
+   grid-template-columns: repeat(2, 2fr);
    grid-template-rows: 100px;
-   gap: 2;
+   gap: 20px;
+   margin: 25px auto;
+   max-width: 800px;
    border: 2px solid black;
    border-radius: 15%;
 }
