@@ -11,9 +11,10 @@ header{
    grid-template-rows: 100px;
    gap: 20px;
    margin: 25px 0;
-   max-width: 500px;
+   max-width: 350px;
 }
-.info div{
+/*to make the square*/
+#info div{
    aspect-ratio: 1/1;
    padding: 15px;
    box-sizing: border-box;
