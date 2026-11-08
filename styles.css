@@ -9,7 +9,7 @@ header{
    display: grid;
    grid-template-columns: repeat(2, 1fr);
    grid-template-rows: 100px;
-   gap: 2%;
+   gap: 12%;
    margin: 25px 0;
    max-width: 350px;
 }
